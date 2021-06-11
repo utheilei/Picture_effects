@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo.svg</file>
+        <file>images/pixmap1.jpeg</file>
+        <file>images/back.jpg</file>
+        <file>images/pixmap2.jpg</file>
+        <file>images/pixmap3.jpg</file>
+        <file>images/pixmap4.jpg</file>
+        <file>images/overturn.svg</file>
+        <file>images/opacity.svg</file>
+        <file>images/b31a3e31d4c8cca7c289b8969d28c0b0.jpeg</file>
+        <file>images/波浪能.svg</file>
+    </qresource>
+</RCC>
